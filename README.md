@@ -1,4 +1,3 @@
-# crispy-potato
 
 hello humans!
 
